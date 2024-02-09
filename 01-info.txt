@@ -11,8 +11,12 @@ meow: i am on gitbash after pulling above 2 lines.
 Ahsan: hey from console 
 
 Meow: from console
+<<<<<<< HEAD
 
 meow": from console again
 
 meow: again hello from console
 
+=======
+Ahsan: let me be on github
+>>>>>>> a2d99bf29c433cc18b2da700ecf8af7166caadab
