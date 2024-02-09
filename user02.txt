@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello from user02 by console
 
 hello from user02 again
+=======
+commit in branch/user02 for branch/user01
+>>>>>>> branch/user01
